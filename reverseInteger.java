@@ -1,3 +1,15 @@
+/* Starter Code:
+class Solution {
+    public int reverse(int x) {
+    
+    }
+}
+*/
+
+/*
+  Goal: Given a 32-bit integer, reverse them. 
+  Examples: 345 --> 543, -678 --> -876
+*/
 class Solution {
     public int reverse(int x) {
         
